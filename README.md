@@ -1,4 +1,4 @@
-# Loan Management
+# ManageLoan
 
 A Meteor application designed for streamlined loan requests, featuring an administrative panel for enhanced management and live updates.
 
