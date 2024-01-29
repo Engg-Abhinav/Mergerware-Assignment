@@ -5,6 +5,8 @@ A Meteor application designed for streamlined loan requests, featuring an admini
 
 ## Demo
 
+**Live Link:** https://manageloan.meteorapp.com/
+
 ![Login](./imports/assets/login.png)
 ![Admin](./imports/assets/admin.png)
 ![Borrower](./imports/assets/borrower.png)
