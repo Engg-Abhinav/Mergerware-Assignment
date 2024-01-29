@@ -6,9 +6,10 @@ A Meteor application designed for streamlined loan requests, featuring an admini
 ## Demo
 live link - https://rudransh-mergerware.meteorapp.com/
 
-![Admin](./imports/assets/admin_view.png)
-![Borrower](./imports/assets/borrower_view.png)
-![Lender](./imports/assets/lender_view.png)
+![Login](./imports/assets/login.png)
+![Admin](./imports/assets/admin.png)
+![Borrower](./imports/assets/borrower.png)
+![Lender](./imports/assets/lender.png)
 
 ## Setup
 
